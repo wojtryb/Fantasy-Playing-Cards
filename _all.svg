@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
-   sodipodi:docname="__all.svg"
+   sodipodi:docname="_all.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.27443895"
-     inkscape:cx="160.3271"
-     inkscape:cy="235.02495"
+     inkscape:cx="29.150381"
+     inkscape:cy="916.41511"
      inkscape:window-width="2560"
      inkscape:window-height="1410"
      inkscape:window-x="0"
@@ -328,4 +328,11 @@
        xlink:href="sprites/arachne_paladin.png"
        id="image1574"
        x="434.58478"
-       y="295.38327" /></g></svg>
+       y="295.38327" /><image
+       width="77.621147"
+       height="109.77425"
+       preserveAspectRatio="none"
+       xlink:href="sprites/arachne_wizard.png"
+       id="image29479"
+       x="499.74115"
+       y="297.93488" /></g></svg>
