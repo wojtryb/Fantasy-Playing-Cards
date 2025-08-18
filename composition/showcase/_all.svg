@@ -28,9 +28,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.5488779"
-     inkscape:cx="824.40922"
-     inkscape:cy="1262.5759"
+     inkscape:zoom="0.77623057"
+     inkscape:cx="1439.0054"
+     inkscape:cy="1686.3546"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="0"
@@ -376,4 +376,12 @@
        xlink:href="../../sprites/tiefling_barbarian.png"
        id="image1-36"
        x="243.82616"
-       y="401.18658" /></g></svg>
+       y="401.18658" /><image
+       width="80.8396"
+       height="114.32587"
+       preserveAspectRatio="none"
+       style="stroke-width:5.19587;image-rendering:optimizeSpeed"
+       xlink:href="../../sprites/tiefling_paladin.png"
+       id="image1-367"
+       x="432.7988"
+       y="397.06619" /></g></svg>
