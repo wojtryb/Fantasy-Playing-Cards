@@ -29,14 +29,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.38811529"
-     inkscape:cx="896.6408"
-     inkscape:cy="1046.0809"
+     inkscape:cx="1169.7555"
+     inkscape:cy="1074.423"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showguides="false"
      inkscape:lockguides="false"><sodipodi:guide
        position="-1.721191e-09,419.37719"
@@ -175,7 +175,7 @@
        xlink:href="../../sprites/goblin_rogue.png"
        id="image452"
        x="122.72543"
-       y="-17.373453"
+       y="-7.3181829"
        style="stroke-width:0.993674;image-rendering:optimizeSpeed" /><image
        width="84.842796"
        height="119.9873"
@@ -183,7 +183,7 @@
        xlink:href="../../sprites/goblin_warrior.png"
        id="image464"
        x="55.668797"
-       y="-21.573761"
+       y="-11.518491"
        style="stroke-width:1.01197;image-rendering:optimizeSpeed" /><image
        width="81.072006"
        height="114.65455"
@@ -191,7 +191,7 @@
        xlink:href="../../sprites/goblin_ranger.png"
        id="image248"
        x="-14.742653"
-       y="-18.45352"
+       y="-8.3982496"
        style="stroke-width:0.988196;image-rendering:optimizeSpeed" /><image
        width="90.42112"
        height="127.87634"
@@ -199,7 +199,7 @@
        xlink:href="../../sprites/goblin_barbarian.png"
        id="image296"
        x="250.73257"
-       y="-29.566797"
+       y="-19.511526"
        style="stroke-width:0.949354;image-rendering:optimizeSpeed" /><image
        width="84.534454"
        height="119.55125"
@@ -207,7 +207,7 @@
        xlink:href="../../sprites/goblin_bard.png"
        id="image416"
        x="182.79546"
-       y="-23.012209"
+       y="-12.956939"
        style="stroke-width:0.959679;image-rendering:optimizeSpeed" /><image
        width="80.160065"
        height="113.36485"
@@ -215,7 +215,7 @@
        xlink:href="../../sprites/goblin_druid.png"
        id="image440"
        x="305.76605"
-       y="-16.675285"
+       y="-6.6200151"
        style="stroke-width:0.970235;image-rendering:optimizeSpeed" /><image
        width="87.115967"
        height="123.2021"
@@ -223,7 +223,7 @@
        xlink:href="../../sprites/goblin_cleric.png"
        id="image428"
        x="378.186"
-       y="-25.2691"
+       y="-15.21383"
        style="stroke-width:0.981386;image-rendering:optimizeSpeed" /><image
        width="87.369385"
        height="123.56049"
@@ -231,7 +231,7 @@
        xlink:href="../../sprites/goblin_paladin.png"
        id="image199"
        x="444.47839"
-       y="-28.595087"
+       y="-18.539816"
        style="stroke-width:0.929777;image-rendering:optimizeSpeed" /><image
        width="87.81076"
        height="124.1847"
@@ -239,7 +239,7 @@
        xlink:href="../../sprites/goblin_wizard.png"
        id="image250"
        x="507.27939"
-       y="-25.631308"
+       y="-15.576037"
        style="stroke-width:0.961573;image-rendering:optimizeSpeed" /><image
        width="79.247185"
        height="112.07382"
@@ -247,7 +247,7 @@
        xlink:href="../../sprites/kobold_warrior.png"
        id="image371"
        x="57.700817"
-       y="96.330879"
+       y="106.38615"
        style="stroke-width:1.0043;image-rendering:optimizeSpeed" /><image
        width="86.770561"
        height="122.71362"
@@ -255,7 +255,7 @@
        xlink:href="../../sprites/kobold_rogue.png"
        id="image305"
        x="115.3716"
-       y="87.933205"
+       y="97.988472"
        style="stroke-width:0.958557;image-rendering:optimizeSpeed" /><image
        width="88.730629"
        height="125.4856"
@@ -263,7 +263,7 @@
        xlink:href="../../sprites/kobold_ranger.png"
        id="image147"
        x="-13.555024"
-       y="84.750839"
+       y="94.806107"
        style="stroke-width:0.930854;image-rendering:optimizeSpeed" /><image
        width="91.565498"
        height="129.49475"
@@ -271,7 +271,7 @@
        xlink:href="../../sprites/kobold_barbarian.png"
        id="image335"
        x="247.68283"
-       y="80.253555"
+       y="90.308823"
        style="stroke-width:0.896673;image-rendering:optimizeSpeed" /><image
        width="85.90284"
        height="121.48646"
@@ -279,7 +279,7 @@
        xlink:href="../../sprites/kobold_bard.png"
        id="image347"
        x="178.72966"
-       y="87.861099"
+       y="97.916367"
        style="stroke-width:0.94445;image-rendering:optimizeSpeed" /><image
        width="84.364006"
        height="119.3102"
@@ -287,7 +287,7 @@
        xlink:href="../../sprites/kobold_druid.png"
        id="image249"
        x="317.75723"
-       y="90.367851"
+       y="100.42312"
        style="stroke-width:0.925948;image-rendering:optimizeSpeed" /><image
        width="93.341759"
        height="132.00682"
@@ -295,7 +295,7 @@
        xlink:href="../../sprites/kobold_cleric.png"
        id="image359"
        x="371.18073"
-       y="79.004303"
+       y="89.05957"
        style="stroke-width:0.874553;image-rendering:optimizeSpeed" /><image
        width="85.520882"
        height="120.94627"
@@ -303,7 +303,7 @@
        xlink:href="../../sprites/kobold_wizard.png"
        id="image305-3"
        x="500.3136"
-       y="89.845551"
+       y="99.900818"
        style="stroke-width:0.923906;image-rendering:optimizeSpeed" /><image
        width="89.401108"
        height="126.43381"
@@ -311,7 +311,7 @@
        xlink:href="../../sprites/kobold_paladin.png"
        id="image250-3"
        x="438.60745"
-       y="83.839203"
+       y="93.89447"
        style="stroke-width:0.899892;image-rendering:optimizeSpeed" /><image
        width="72.628929"
        height="102.71409"
@@ -319,7 +319,7 @@
        xlink:href="../../sprites/naga_rogue.png"
        id="image357"
        x="119.41491"
-       y="225.24609"
+       y="235.30136"
        style="stroke-width:0.995307;image-rendering:optimizeSpeed" /><image
        width="78.949196"
        height="111.6524"
@@ -327,7 +327,7 @@
        xlink:href="../../sprites/naga_warrior.png"
        id="image369"
        x="53.375832"
-       y="218.20258"
+       y="228.25784"
        style="stroke-width:1.0259;image-rendering:optimizeSpeed" /><image
        width="77.303986"
        height="109.32569"
@@ -335,7 +335,7 @@
        xlink:href="../../sprites/naga_ranger.png"
        id="image255"
        x="-8.9794626"
-       y="221.04298"
+       y="231.09825"
        style="stroke-width:1.00864;image-rendering:optimizeSpeed" /><image
        width="79.900108"
        height="112.99721"
@@ -343,7 +343,7 @@
        xlink:href="../../sprites/naga_barbarian.png"
        id="image345"
        x="245.94205"
-       y="213.93654"
+       y="223.99181"
        style="stroke-width:1.0128;image-rendering:optimizeSpeed" /><image
        width="75.641891"
        height="106.97511"
@@ -351,7 +351,7 @@
        xlink:href="../../sprites/naga_bard.png"
        id="image246"
        x="183.93468"
-       y="220.59891"
+       y="230.65417"
        style="stroke-width:1.03605;image-rendering:optimizeSpeed" /><image
        width="84.628708"
        height="119.68453"
@@ -359,7 +359,7 @@
        xlink:href="../../sprites/naga_druid.png"
        id="image256"
        x="312.39575"
-       y="210.62218"
+       y="220.67744"
        style="stroke-width:0.959723;image-rendering:optimizeSpeed" /><image
        width="74.821945"
        height="105.81552"
@@ -367,7 +367,7 @@
        xlink:href="../../sprites/naga_wizard.png"
        id="image381"
        x="510.53278"
-       y="222.173"
+       y="232.22827"
        style="stroke-width:1.02278;image-rendering:optimizeSpeed" /><image
        width="82.358444"
        height="116.47386"
@@ -375,7 +375,7 @@
        xlink:href="../../sprites/naga_cleric.png"
        id="image247"
        x="380.29236"
-       y="211.59879"
+       y="221.65405"
        style="stroke-width:0.947618;image-rendering:optimizeSpeed" /><image
        width="74.074158"
        height="104.75797"
@@ -383,7 +383,7 @@
        xlink:href="../../sprites/naga_paladin.png"
        id="image257"
        x="446.49771"
-       y="223.46014"
+       y="233.51541"
        style="stroke-width:1.04601;image-rendering:optimizeSpeed" /><image
        width="75.71833"
        height="107.08321"
@@ -391,7 +391,7 @@
        xlink:href="../../sprites/arachne_ranger.png"
        id="image251"
        x="-8.2032251"
-       y="335.11203"
+       y="345.1673"
        style="stroke-width:0.948151;image-rendering:optimizeSpeed" /><image
        width="73.157158"
        height="103.46112"
@@ -399,7 +399,7 @@
        xlink:href="../../sprites/arachne_warrior.png"
        id="image317"
        x="54.869942"
-       y="338.00488"
+       y="348.06015"
        style="stroke-width:0.979033;image-rendering:optimizeSpeed" /><image
        width="70.508041"
        height="99.714661"
@@ -407,7 +407,7 @@
        xlink:href="../../sprites/arachne_rogue.png"
        id="image329"
        x="121.52477"
-       y="341.88895"
+       y="351.94421"
        style="stroke-width:0.992749;image-rendering:optimizeSpeed" /><image
        width="76.223228"
        height="107.79726"
@@ -415,7 +415,7 @@
        xlink:href="../../sprites/arachne_cleric.png"
        id="image272"
        x="382.91296"
-       y="334.80011"
+       y="344.85538"
        style="stroke-width:1.0246;image-rendering:optimizeSpeed" /><image
        width="73.65844"
        height="104.17005"
@@ -423,7 +423,7 @@
        xlink:href="../../sprites/arachne_bard.png"
        id="image273"
        x="187.64363"
-       y="337.04684"
+       y="347.10211"
        style="stroke-width:0.967607;image-rendering:optimizeSpeed" /><image
        width="76.314751"
        height="107.92668"
@@ -431,7 +431,7 @@
        xlink:href="../../sprites/arachne_barbarian.png"
        id="image428-3"
        x="254.28105"
-       y="334.44138"
+       y="344.49664"
        style="stroke-width:0.974734;image-rendering:optimizeSpeed" /><image
        width="75.610352"
        height="106.9305"
@@ -439,7 +439,7 @@
        xlink:href="../../sprites/arachne_druid.png"
        id="image275"
        x="314.3389"
-       y="334.7319"
+       y="344.78717"
        style="stroke-width:1.01127;image-rendering:optimizeSpeed" /><image
        width="79.8302"
        height="112.89835"
@@ -447,7 +447,7 @@
        xlink:href="../../sprites/arachne_paladin.png"
        id="image1574"
        x="441.85178"
-       y="330.94232"
+       y="340.99759"
        style="stroke-width:1.00427" /><image
        width="76.087296"
        height="107.60502"
@@ -455,7 +455,7 @@
        xlink:href="../../sprites/arachne_wizard.png"
        id="image29479"
        x="508.38373"
-       y="335.18112"
+       y="345.23639"
        style="stroke-width:1.02016" /><image
        width="82.586052"
        height="116.79575"
@@ -463,7 +463,7 @@
        xlink:href="../../sprites/tiefling_rogue.png"
        id="image279"
        x="116.56944"
-       y="441.56827"
+       y="451.62354"
        style="stroke-width:0.958726" /><image
        width="79.4272"
        height="112.32841"
@@ -471,7 +471,7 @@
        xlink:href="../../sprites/tiefling_warrior.png"
        id="image233"
        x="53.677902"
-       y="444.48041"
+       y="454.53568"
        style="stroke-width:0.995203" /><image
        width="81.351044"
        height="115.04916"
@@ -480,7 +480,7 @@
        xlink:href="../../sprites/tiefling_bard.png"
        id="image1"
        x="181.58408"
-       y="442.47589" /><image
+       y="452.53116" /><image
        width="81.685158"
        height="115.52168"
        preserveAspectRatio="none"
@@ -488,7 +488,7 @@
        xlink:href="../../sprites/tiefling_wizard.png"
        id="image1-3"
        x="508.13086"
-       y="440.66293" /><image
+       y="450.7182" /><image
        width="78.376022"
        height="110.8418"
        preserveAspectRatio="none"
@@ -496,7 +496,7 @@
        xlink:href="../../sprites/tiefling_barbarian.png"
        id="image1-36"
        x="251.44456"
-       y="444.57318" /><image
+       y="454.62845" /><image
        width="78.624031"
        height="111.19254"
        preserveAspectRatio="none"
@@ -504,4 +504,12 @@
        xlink:href="../../sprites/tiefling_paladin.png"
        id="image1-367"
        x="439.80057"
-       y="441.75278" /></g></svg>
+       y="451.80804" /><image
+       width="77.749123"
+       height="109.95522"
+       preserveAspectRatio="none"
+       style="stroke-width:5.40239;image-rendering:optimizeSpeed"
+       xlink:href="../../sprites/tiefling_ranger.png"
+       id="image1-3675"
+       x="-10.459129"
+       y="456.30463" /></g></svg>
