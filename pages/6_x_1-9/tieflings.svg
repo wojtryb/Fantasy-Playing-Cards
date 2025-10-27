@@ -1029,7 +1029,7 @@
        maskUnits="userSpaceOnUse"
        id="mask5"><image
          preserveAspectRatio="none"
-         inkscape:svg-dpi="600"
+         inkscape:svg-dpi="1200"
          width="238.11"
          height="332.59799"
          style="display:inline;opacity:1;image-rendering:optimizeSpeed"
@@ -1041,7 +1041,7 @@
        maskUnits="userSpaceOnUse"
        id="mask9"><image
          preserveAspectRatio="none"
-         inkscape:svg-dpi="600"
+         inkscape:svg-dpi="1200"
          width="238.11"
          height="332.59799"
          style="display:inline;opacity:1;image-rendering:optimizeSpeed"
@@ -1053,7 +1053,7 @@
        maskUnits="userSpaceOnUse"
        id="mask10"><image
          preserveAspectRatio="none"
-         inkscape:svg-dpi="600"
+         inkscape:svg-dpi="1200"
          width="238.11"
          height="332.59799"
          style="display:inline;opacity:1;image-rendering:optimizeSpeed"
@@ -1065,7 +1065,7 @@
        maskUnits="userSpaceOnUse"
        id="mask11"><image
          preserveAspectRatio="none"
-         inkscape:svg-dpi="600"
+         inkscape:svg-dpi="1200"
          width="238.11"
          height="332.59799"
          style="display:inline;opacity:1;image-rendering:optimizeSpeed"
@@ -1077,7 +1077,7 @@
        maskUnits="userSpaceOnUse"
        id="mask12"><image
          preserveAspectRatio="none"
-         inkscape:svg-dpi="600"
+         inkscape:svg-dpi="1200"
          width="238.11"
          height="332.59799"
          style="display:inline;opacity:1;image-rendering:optimizeSpeed"
@@ -1089,7 +1089,7 @@
        maskUnits="userSpaceOnUse"
        id="mask13"><image
          preserveAspectRatio="none"
-         inkscape:svg-dpi="600"
+         inkscape:svg-dpi="1200"
          width="238.11"
          height="332.59799"
          style="image-rendering:optimizeSpeed"
@@ -2796,7 +2796,7 @@
      style="display:inline"
      sodipodi:insensitive="true"><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="238.11"
        height="332.59799"
        style="display:inline;image-rendering:optimizeSpeed"
@@ -2943,7 +2943,7 @@
      style="display:inline"
      sodipodi:insensitive="true"><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="93.813087"
        height="90.100533"
        style="stroke-width:0.755605;image-rendering:optimizeSpeed"
@@ -3006,7 +3006,7 @@
      inkscape:label="Shadows"
      sodipodi:insensitive="true"><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="171.54659"
        height="12.024096"
        style="display:inline;fill:#2a4005;fill-opacity:1;stroke-width:2.80415;filter:url(#filter33);image-rendering:optimizeSpeed"
@@ -3017,7 +3017,7 @@
        inkscape:label="1"
        transform="matrix(0.93407032,0,0,0.93407032,22.328665,27.381492)" /><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="606.88"
        height="30.1661"
        style="display:inline;stroke-width:3.16967;filter:url(#filter48-3-3);image-rendering:optimizeSpeed"
@@ -3028,7 +3028,7 @@
        transform="matrix(-0.28022242,0.00237484,0,0.35519548,435.5981,267.44505)"
        inkscape:label="2" /><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="174.51585"
        height="12.402835"
        style="display:inline;stroke-width:3.11353;filter:url(#filter42);image-rendering:optimizeSpeed"
@@ -3039,7 +3039,7 @@
        transform="matrix(0.93407032,0.01052761,0,0.93407032,476.11619,24.030428)"
        inkscape:label="3" /><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="174.51585"
        height="12.402835"
        style="display:inline;stroke-width:3.11353;filter:url(#filter42);image-rendering:optimizeSpeed"
@@ -3050,7 +3050,7 @@
        transform="matrix(0.89630558,0.0154206,0,0.67711024,16.405205,446.03008)"
        inkscape:label="4" /><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="174.51585"
        height="12.402835"
        style="display:inline;stroke-width:2.84082;filter:url(#filter42);image-rendering:optimizeSpeed"
@@ -3061,7 +3061,7 @@
        transform="matrix(-0.94394807,0.01758846,0,0.7722997,558.55331,410.50118)"
        inkscape:label="5" /><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="174.51585"
        height="12.402835"
        style="display:inline;stroke-width:2.66805;filter:url(#filter42);image-rendering:optimizeSpeed"
@@ -3072,7 +3072,7 @@
        transform="matrix(-0.93203745,0.0201949,0,0.88674737,784.58521,368.89421)"
        inkscape:label="6" /><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="174.51585"
        height="12.402835"
        style="display:inline;stroke-width:3.11353;filter:url(#filter42);image-rendering:optimizeSpeed"
@@ -3083,7 +3083,7 @@
        transform="matrix(-0.96888385,0.01493049,0,0.65559002,313.20638,786.79691)"
        inkscape:label="7" /><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="174.51585"
        height="12.402835"
        style="display:inline;stroke-width:3.05796;filter:url(#filter42);image-rendering:optimizeSpeed"
@@ -3094,7 +3094,7 @@
        transform="matrix(-0.89729611,-0.002075,0,0.80414372,542.3366,735.4022)"
        inkscape:label="8" /><image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="600"
+       inkscape:svg-dpi="1200"
        width="174.51585"
        height="12.402835"
        style="display:inline;stroke-width:2.79687;filter:url(#filter42);image-rendering:optimizeSpeed"
@@ -3246,7 +3246,7 @@
        inkscape:label="9"
        transform="matrix(0.94242787,0,0,0.94242787,35.918806,45.894692)" /></g><image
      preserveAspectRatio="none"
-     inkscape:svg-dpi="600"
+     inkscape:svg-dpi="1200"
      width="793.70001"
      height="1122.4752"
      style="display:inline;image-rendering:optimizeSpeed"
