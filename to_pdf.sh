@@ -36,7 +36,7 @@ do
     $inkscape_path \
         "$file_name" \
         --export-area-page \
-        --export-filename="cache/${i}.png" \
+        --export-filename="cache/$(printf "%02d\n" "$i").png" \
         --export-dpi=$page_dpi
     ((i+=1))
 done
