@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.40630366"
-     inkscape:cx="-566.07907"
-     inkscape:cy="44.301841"
+     inkscape:zoom="0.81260732"
+     inkscape:cx="514.39359"
+     inkscape:cy="286.73136"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g47"
+     inkscape:current-layer="layer2"
      inkscape:clip-to-page="true"
      showgrid="false"
      showguides="true"
@@ -58,18 +58,6 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
-    <linearGradient
-       id="linearGradient224"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#ff940c;stop-opacity:1;"
-         offset="0"
-         id="stop225" />
-      <stop
-         style="stop-color:#b2391b;stop-opacity:1;"
-         offset="1"
-         id="stop226" />
-    </linearGradient>
     <inkscape:path-effect
        effect="offset"
        id="path-effect223"
@@ -3425,17 +3413,6 @@
          operator="in"
          result="composite2" />
     </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient224"
-       id="radialGradient5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.97520804,0,0,0.78597787,4.0635307,97.569748)"
-       cx="163.9053"
-       cy="308.27417"
-       fx="163.9053"
-       fy="308.27417"
-       r="119.055" />
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Colorize"
@@ -4621,19 +4598,47 @@
          operator="in"
          result="composite2" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="136.42557"
+       y1="175.60422"
+       x2="136.42557"
+       y2="85.18605"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4.8864746e-6)" />
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#454545;stop-opacity:0.40392157;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#311a1a;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     sodipodi:insensitive="true"
      style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.2;paint-order:markers fill stroke"
        id="rect179"
        width="297"
-       height="210"
+       height="175.60422"
        x="0"
+       y="0" />
+    <rect
+       style="display:inline;opacity:0.747145;fill:url(#linearGradient2);stroke-width:0.2;paint-order:markers fill stroke"
+       id="rect1"
+       width="297"
+       height="175.60422"
+       x="-3.8146973e-06"
        y="0" />
   </g>
   <g
@@ -4641,19 +4646,10 @@
      id="g215"
      inkscape:label="7-9"
      style="display:inline">
-    <path
-       style="display:inline;fill:url(#radialGradient5);stroke-width:55.4212;stroke-linecap:square;paint-order:markers fill stroke"
-       d="m 277.79528,394.96063 -238.194606,3e-5 V 62.301609 l 238.110266,0.06063 z"
-       id="path5"
-       sodipodi:nodetypes="ccccc"
-       clip-path="none"
-       inkscape:label="bottom color"
-       mask="url(#mask5)"
-       transform="matrix(-1.2480512,0,0,0.65215958,346.52897,-81.954989)" />
     <g
        id="g1"
        inkscape:label="7"
-       transform="matrix(-1,0,0,1,124.80133,-1.848638)">
+       transform="matrix(-1,0,0,1,125.45253,1.0817442)">
       <image
          preserveAspectRatio="none"
          inkscape:svg-dpi="1200"
@@ -4707,7 +4703,7 @@
     <g
        id="g3"
        inkscape:label="9"
-       transform="translate(-27.397675,2.0720931)">
+       transform="translate(-30.328057,2.0720931)">
       <image
          preserveAspectRatio="none"
          inkscape:svg-dpi="1200"

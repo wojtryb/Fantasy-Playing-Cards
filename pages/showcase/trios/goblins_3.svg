@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1122.5197"
-   height="663.70099"
-   viewBox="0 0 296.99999 175.60422"
+   width="297mm"
+   height="175.60422mm"
+   viewBox="0 0 297 175.60422"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.57460015"
-     inkscape:cx="541.24594"
-     inkscape:cy="558.64935"
+     inkscape:zoom="1.1492003"
+     inkscape:cx="584.75446"
+     inkscape:cy="440.30619"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="layer2"
      inkscape:clip-to-page="true"
      showgrid="false"
      showguides="true"
@@ -542,29 +542,6 @@
          operator="in"
          result="composite2" />
     </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient24"
-       id="radialGradient5529"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2750737,0,0,0.70526103,-44.425578,100.84096)"
-       cx="161.91788"
-       cy="327.9993"
-       fx="161.91788"
-       fy="327.9993"
-       r="114.50243" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient24">
-      <stop
-         style="stop-color:#9bc100;stop-opacity:1;"
-         offset="0.27502972"
-         id="stop23" />
-      <stop
-         style="stop-color:#588504;stop-opacity:1;"
-         offset="1"
-         id="stop24" />
-    </linearGradient>
     <mask
        maskUnits="userSpaceOnUse"
        id="mask5">
@@ -893,7 +870,7 @@
          id="feComposite6" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB"
+       style="color-interpolation-filters:sRGB;"
        inkscape:label="Colorize"
        id="filter42-4"
        x="0"
@@ -941,8 +918,152 @@
          in="colormatrix2"
          in2="SourceGraphic"
          operator="in"
-         result="composite2"
+         result="fbSourceGraphic"
          id="feComposite42-6" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix103" />
+      <feComposite
+         id="feComposite103"
+         in2="fbSourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="0"
+         result="composite1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix104"
+         in="composite1"
+         values="0"
+         type="saturate"
+         result="colormatrix1" />
+      <feFlood
+         id="feFlood104"
+         flood-opacity="1"
+         flood-color="rgb(67,67,67)"
+         result="flood1" />
+      <feBlend
+         id="feBlend104"
+         in="flood1"
+         in2="colormatrix1"
+         mode="lighten"
+         result="blend1" />
+      <feBlend
+         id="feBlend105"
+         in2="blend1"
+         mode="lighten"
+         result="blend2" />
+      <feColorMatrix
+         id="feColorMatrix105"
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2" />
+      <feComposite
+         id="feComposite105"
+         in="colormatrix2"
+         in2="fbSourceGraphic"
+         operator="in"
+         k2="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix106" />
+      <feComposite
+         id="feComposite106"
+         in2="fbSourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="0"
+         result="composite1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix107"
+         in="composite1"
+         values="0"
+         type="saturate"
+         result="colormatrix1" />
+      <feFlood
+         id="feFlood107"
+         flood-opacity="1"
+         flood-color="rgb(67,67,67)"
+         result="flood1" />
+      <feBlend
+         id="feBlend107"
+         in="flood1"
+         in2="colormatrix1"
+         mode="lighten"
+         result="blend1" />
+      <feBlend
+         id="feBlend108"
+         in2="blend1"
+         mode="lighten"
+         result="blend2" />
+      <feColorMatrix
+         id="feColorMatrix108"
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2" />
+      <feComposite
+         id="feComposite108"
+         in="colormatrix2"
+         in2="fbSourceGraphic"
+         operator="in"
+         k2="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix109" />
+      <feComposite
+         id="feComposite109"
+         in2="fbSourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="0"
+         result="composite1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix110"
+         in="composite1"
+         values="0"
+         type="saturate"
+         result="colormatrix1" />
+      <feFlood
+         id="feFlood110"
+         flood-opacity="1"
+         flood-color="rgb(67,67,67)"
+         result="flood1" />
+      <feBlend
+         id="feBlend110"
+         in="flood1"
+         in2="colormatrix1"
+         mode="lighten"
+         result="blend1" />
+      <feBlend
+         id="feBlend111"
+         in2="blend1"
+         mode="lighten"
+         result="blend2" />
+      <feColorMatrix
+         id="feColorMatrix111"
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2" />
+      <feComposite
+         id="feComposite111"
+         in="colormatrix2"
+         in2="fbSourceGraphic"
+         operator="in"
+         k2="1"
+         result="composite2" />
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
@@ -3436,35 +3557,55 @@
          operator="in"
          result="composite2" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="136.42557"
+       y1="175.60422"
+       x2="136.42557"
+       y2="85.18605"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(5.5310059e-7)" />
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#454545;stop-opacity:0.40392157;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#311a1a;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.2;paint-order:markers fill stroke"
        id="rect179"
        width="297"
-       height="210"
+       height="175.60422"
        x="0"
        y="0" />
+    <rect
+       style="display:inline;opacity:0.747145;fill:url(#linearGradient2);stroke-width:0.2;paint-order:markers fill stroke"
+       id="rect1"
+       width="297"
+       height="175.60422"
+       x="0"
+       y="1.9073486e-06" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="7-9"
      style="display:inline">
-    <path
-       style="display:inline;fill:url(#radialGradient5529);fill-opacity:1;stroke-width:55.4212;stroke-linecap:square;paint-order:markers fill stroke"
-       d="m 277.79528,394.96063 -238.194606,3e-5 V 62.301609 l 238.110266,0.06063 z"
-       id="path3"
-       sodipodi:nodetypes="ccccc"
-       clip-path="none"
-       inkscape:label="bottom color"
-       mask="url(#mask5)"
-       transform="matrix(1.2480512,0,0,0.65215958,-49.702429,-81.954989)" />
     <g
        id="g196"
        inkscape:label="7"
@@ -3475,16 +3616,16 @@
          inkscape:svg-dpi="1200"
          width="248.90981"
          height="12.402835"
-         style="display:inline;stroke-width:1.58605;filter:url(#filter42-4);image-rendering:optimizeSpeed"
+         style="display:inline;stroke-width:1.73298;filter:url(#filter42-4);image-rendering:optimizeSpeed"
          xlink:href="../../../assets/shadows/G3.svg"
          id="use28"
          x="82.972435"
          y="355.30099"
-         transform="matrix(-0.47137616,0.01083383,0,0.34006607,122.01764,62.104984)"
+         transform="matrix(-0.39483226,0.01083383,0,0.34006607,128.89315,61.317689)"
          inkscape:label="7" />
       <path
          id="path36"
-         style="fill:#2a4005;fill-opacity:1;stroke-width:0.19344;paint-order:markers fill stroke"
+         style="fill:#434343;fill-opacity:1;stroke-width:0.19344;paint-order:markers fill stroke"
          d="m 24.23728,179.23454 -2.907316,7.45794 8.595858,-0.063 z m 21.363037,3.22357 -0.252697,4.36098 9.922908,-2.59158 z" />
       <image
          width="229.13068"
@@ -3502,19 +3643,19 @@
     <g
        id="g197"
        inkscape:label="8"
-       transform="matrix(1.0106243,0,0,1.0106243,-9.2453669,-29.970629)"
+       transform="matrix(1.0106243,0,0,1.0106243,-12.826945,-29.970629)"
        style="stroke-width:0.989487">
       <image
          preserveAspectRatio="none"
          inkscape:svg-dpi="1200"
          width="248.90981"
          height="12.402835"
-         style="display:inline;stroke-width:1.43227;filter:url(#filter42-4);image-rendering:optimizeSpeed"
+         style="display:inline;stroke-width:1.6242;filter:url(#filter42-4);image-rendering:optimizeSpeed"
          xlink:href="../../../assets/shadows/G3.svg"
          id="use29"
          x="82.972435"
          y="355.30099"
-         transform="matrix(-0.43654768,-0.00133252,0,0.51640436,233.67161,0.22230512)"
+         transform="matrix(-0.33947182,-0.00133252,0,0.51640436,229.96636,0.22230512)"
          inkscape:label="8" />
       <image
          width="108.35003"
@@ -3530,18 +3671,18 @@
     <g
        id="g198"
        inkscape:label="9"
-       transform="translate(-38.218606,-39.903201)">
+       transform="translate(-43.028328,-38.093853)">
       <image
          preserveAspectRatio="none"
          inkscape:svg-dpi="1200"
          width="248.90981"
          height="12.402835"
-         style="display:inline;stroke-width:1.50468;filter:url(#filter42-4);image-rendering:optimizeSpeed"
+         style="display:inline;stroke-width:1.68597;filter:url(#filter42-4);image-rendering:optimizeSpeed"
          xlink:href="../../../assets/shadows/G3.svg"
          id="use27"
          x="82.972435"
          y="355.30099"
-         transform="matrix(-0.44033003,0.00881996,0,0.38728002,348.00193,43.827216)"
+         transform="matrix(-0.35072543,0.00881996,0,0.38728002,347.56758,43.827216)"
          inkscape:label="9" />
       <image
          width="108.8974"
