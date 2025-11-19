@@ -24,8 +24,8 @@
 # <policy domain="coder" rights="none" pattern="PDF" />
 
 
-inkscape_path=/usr/local/bin/Inkscape-1.4.2.AppImage
-page_dpi=600
+inkscape_path=inkscape
+page_dpi=300
 output_pdf_name=output.pdf
 
 mkdir cache
